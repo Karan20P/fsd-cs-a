@@ -1,6 +1,6 @@
 const Book = () => {
   return (
-    <div>
+    <div className="card">
       <img src="" alt="Book Image" witdth={200} height={200} />
       <h3>Title : Physics</h3>
       <h4>Price : ₹400</h4>
